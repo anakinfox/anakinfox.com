@@ -1,1 +1,8 @@
-test test test
+---
+title: Index
+---
+
+# Evergreen Index
+---
+## Index
+- [[Politics]]

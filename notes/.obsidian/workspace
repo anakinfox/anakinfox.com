@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evergreen Index.md",
+            "file": "Metadata Template.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen Index.md"
+                "file": "Metadata Template.md"
               }
             }
           }
@@ -72,14 +72,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Metadata Template.md",
     "Evergreen Index.md",
-    "index.md",
+    "graph1.png",
+    "About.md",
+    "Obsidian.md",
+    "Evergreen/Organizational/Evergreen/Andy Matsuchak.md",
+    "Andy Matsuchak.md",
+    "Evergreen notes should be atomic.md",
     "test.md",
-    "non-existent.md",
-    "Index.md"
+    "index.md"
   ]
 }
