@@ -2,4 +2,4 @@
 layout: default
 ---
 # Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+I'm Anakin Fox, a 20 year old university student residing in the United States.
