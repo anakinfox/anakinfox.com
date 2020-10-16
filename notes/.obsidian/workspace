@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md"
+                "file": "Index.md"
               }
             }
           }
@@ -76,7 +76,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "test.md"
+    "Index.md",
+    "test.md",
+    "index.md"
   ]
 }
