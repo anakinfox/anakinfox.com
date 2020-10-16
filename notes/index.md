@@ -1,5 +1,5 @@
 ---
-title: About these notes
+title: About the Notes
 ---
 # About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+Highlights compiled from my Second Brain using the app [Obsidian](https://obsidian.md). Check it out, it has some cool use-cases and is completely free.
