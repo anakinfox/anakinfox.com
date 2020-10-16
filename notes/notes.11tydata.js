@@ -30,7 +30,7 @@ module.exports = {
             // Search the other notes for backlinks
             for(const otherNote of notes) {
                 const noteContent = removeFrontmatter(otherNote.template.inputContent);
-
+                
                 // Get all links from otherNote
                 const outboundLinks = (noteContent.match(wikilinkRegExp) || [])
                     .map(link => (
