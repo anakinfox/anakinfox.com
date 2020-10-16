@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metadata Template.md",
+            "file": "About.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metadata Template.md"
+                "file": "About.md"
               }
             }
           }
@@ -75,10 +75,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Metadata Template.md",
-    "Evergreen Index.md",
-    "graph1.png",
     "About.md",
+    "Evergreen Index.md",
+    "Metadata Template.md",
+    "graph1.png",
     "Obsidian.md",
     "Evergreen/Organizational/Evergreen/Andy Matsuchak.md",
     "Andy Matsuchak.md",
