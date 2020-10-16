@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index.md",
+            "file": "Evergreen Index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md"
+                "file": "Evergreen Index.md"
               }
             }
           }
@@ -76,8 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Index.md",
+    "Evergreen Index.md",
+    "index.md",
     "test.md",
-    "index.md"
+    "non-existent.md",
+    "Index.md"
   ]
 }
