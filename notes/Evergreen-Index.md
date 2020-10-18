@@ -6,3 +6,5 @@ title: Index
 ---
 ## Index
 - [[Politics]]
+
+[[Test Page]]

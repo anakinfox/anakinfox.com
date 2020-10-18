@@ -18,7 +18,6 @@ I also use [[Obsidian]] to write.
 
 [[Evergreen-Index]] | [[Metadata-Template]]
 
-[[Test Page]]
 
 
 

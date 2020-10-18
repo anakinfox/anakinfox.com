@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evergreen/Test Page.md",
+            "file": "Evergreen-Index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/Test Page.md"
+                "file": "Evergreen-Index.md"
               }
             }
           }
@@ -75,15 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Test Page.md",
+    "Evergreen-Index.md",
     "Notes.md",
-    "Evergreen Index.md",
+    "Metadata-Template.md",
     "Index.md",
+    "Test Page.md",
+    "Evergreen Index.md",
     "notes.md",
     "Metadata Template.md",
     "Andy Matsuchak.md",
-    "About.md",
-    "graph1.png",
-    "Obsidian.md"
+    "About.md"
   ]
 }
