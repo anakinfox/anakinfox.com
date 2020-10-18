@@ -16,7 +16,9 @@ I also use [[Obsidian]] to write.
 ---
 # Evergreen Index
 
-[[Evergreen Index]] | [[Metadata Template]]
+[[Evergreen-Index]] | [[Metadata-Template]]
+
+[[Test Page]]
 
 
 
