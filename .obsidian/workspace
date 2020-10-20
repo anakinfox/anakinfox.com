@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CONTRIBUTING.md",
+            "file": "notes/notes.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTRIBUTING.md"
+                "file": "notes/notes.md"
               }
             }
           }
@@ -76,11 +76,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "CONTRIBUTING.md",
     "notes/notes.md",
-    "notes/Metadata-Template.md",
     "about.md",
     "index.md",
-    "README.md"
+    "README.md",
+    "CONTRIBUTING.md",
+    "notes/Metadata-Template.md"
   ]
 }
