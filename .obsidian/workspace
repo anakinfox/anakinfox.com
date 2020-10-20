@@ -1,0 +1,86 @@
+{
+  "main": {
+    "id": "b4a94085cfccfc22",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6b23e8ab4e3280",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CONTRIBUTING.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0069fe3c2b6844f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f746d90f6325f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80eca88cca7d47ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6e54f19e1078e8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16296648a48ea89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f905990fddf3cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bfbfe18d5bf5b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CONTRIBUTING.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "notes/notes.md",
+    "notes/Metadata-Template.md",
+    "about.md",
+    "index.md",
+    "README.md"
+  ]
+}
